@@ -52,7 +52,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/nazedev/naze-md
+git clone https://github.com/CandraMc1909/BotSimpel.git
 cd naze
 npm install
 ```
